@@ -1,0 +1,14 @@
+.container{
+    padding:25px;
+    width:30%;
+    position: relative;
+    top:150px;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+body{
+    height:600px;
+    background-image: linear-gradient(black, pink);
+    
+
+}
